@@ -17,7 +17,7 @@ In other words, **Mastery. No less.**
 # Index
 | **Chapter**    	| **Description**                                                                                              	|
 |----------------	|--------------------------------------------------------------------------------------------------------------	|
-| Introduction   	| An introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
+| [Introduction](./0.%20Introduction/)   	| An introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
 | Regression     	|                                                                                                              	|
 | Classification 	|                                                                                                              	|
 | Clustering     	|                                                                                                              	|
