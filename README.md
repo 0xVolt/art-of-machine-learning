@@ -28,3 +28,5 @@ In other words, **Mastery. No less.**
 | Classification 	|                                                                                                              	|
 | Clustering     	|                                                                                                              	|
 | Deep Learning  	|                                                                                                              	|
+
+Note: Use [this site](https://tablesgenerator.com/markdown_tables#) to generate tables in markdown.
