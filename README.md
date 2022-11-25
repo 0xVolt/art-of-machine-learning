@@ -21,19 +21,6 @@ In other words, **Mastery. No less.**
 
 ## Index
 
-$$
-\begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|l|}
-    \hline
-        id & name & age & gender \\ \hline
-        1 & Roberta & 39 & M \\ \hline
-        2 & Oliver & 25 & M \\ \hline
-        3 & Shayna & 18 & F \\ \hline
-        4 & Fechin & 18 & M \\ \hline
-    \end{tabular}
-\end{table}
-$$
 
 | **Chapter**    	| **Directory** 	| **Description** 	|
 |----------------	|---------------	|-----------------	|
