@@ -1,3 +1,6 @@
+# Contents
+
+
 # About this repository
 
 ## Rekindling a flame
@@ -10,5 +13,4 @@ The idea is to revisit all of the topics in machine learning I studied back in t
 
 In other words, **Mastery. No less.**
 
-# Contents
 
