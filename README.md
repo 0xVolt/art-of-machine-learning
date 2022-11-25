@@ -1,5 +1,11 @@
 # Contents
 
+- [Contents](#contents)
+- [About this repository](#about-this-repository)
+  - [Rekindling a flame](#rekindling-a-flame)
+  - [The Objective](#the-objective)
+  - [Index](#index)
+
 
 # About this repository
 
@@ -13,4 +19,12 @@ The idea is to revisit all of the topics in machine learning I studied back in t
 
 In other words, **Mastery. No less.**
 
+## Index
 
+| **Chapter**    	| **Directory** 	| **Description** 	|
+|----------------	|---------------	|-----------------	|
+| Introduction   	|               	|                 	|
+| Regression     	|               	|                 	|
+| Classification 	|               	|                 	|
+| Clustering     	|               	|                 	|
+| Deep Learning  	|               	|                 	|
