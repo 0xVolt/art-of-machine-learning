@@ -21,11 +21,10 @@ In other words, **Mastery. No less.**
 
 # Index
 
-
-| **Chapter**    	| **Directory** 	| **Description** 	|
-|----------------	|---------------	|-----------------	|
-| Introduction   	|               	|                 	|
-| Regression     	|               	|                 	|
-| Classification 	|               	|                 	|
-| Clustering     	|               	|                 	|
-| Deep Learning  	|               	|                 	|
+| **Chapter**    	| **Description**                                                                                              	|
+|----------------	|--------------------------------------------------------------------------------------------------------------	|
+| Introduction   	| A introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
+| Regression     	|                                                                                                              	|
+| Classification 	|                                                                                                              	|
+| Clustering     	|                                                                                                              	|
+| Deep Learning  	|                                                                                                              	|
