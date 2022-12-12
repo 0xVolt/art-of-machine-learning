@@ -14,6 +14,8 @@ The idea is to revisit all of the topics in machine learning I studied back in t
 
 In other words, **Mastery. No less.**
 
+Funnily enough, I'm going to create notes of all the mathematics behind each of these concepts so I'm going to have to use LaTex notation exhaustively. Just one other thing to learn I guess...
+
 # Index
 | **Chapter**    	| **Description**                                                                                              	|
 |----------------	|--------------------------------------------------------------------------------------------------------------	|
