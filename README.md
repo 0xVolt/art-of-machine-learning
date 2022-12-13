@@ -1,4 +1,4 @@
-# Contents
+# Table of Contents
 - [Contents](#contents)
 - [About this repository](#about-this-repository)
   - [Rekindling a flame](#rekindling-a-flame)
