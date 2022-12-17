@@ -1,5 +1,5 @@
 # Table of Contents
-- [Contents](#contents)
+- [Table of Contents](#table-of-contents)
 - [About this repository](#about-this-repository)
   - [Rekindling a flame](#rekindling-a-flame)
   - [The Objective](#the-objective)
@@ -19,7 +19,7 @@ Funnily enough, I'm going to create notes of all the mathematics behind each of 
 # Index
 | **Chapter**    	| **Description**                                                                                              	|
 |----------------	|--------------------------------------------------------------------------------------------------------------	|
-| [Introduction](./0.%20Introduction/)   	| An introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
+| [Introduction](Introduction/)   	| An introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
 | Regression     	|                                                                                                              	|
 | Classification 	|                                                                                                              	|
 | Clustering     	|                                                                                                              	|
