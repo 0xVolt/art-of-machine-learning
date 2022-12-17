@@ -5,4 +5,6 @@ Everything learnt on this journey to revisit machine learning concepts and study
 
 ## What is machine learning?
 
-Arthur Samuel talked about it being the field of study where we give machines the ability to learn without explicitly programming them to do so. A great way to think about it is to imbue knowledge to a machine without programming that knowledge in the first place and sort of allowing the machine (model, more precisely) to figure it out through a minimisation of loss and an iterative approach to improve accuracy.
+Arthur Samuel talked about machine learning being the field of study where we give machines the ability to learn without explicitly programming them to do so. A great way to think about it is to imbue knowledge to a machine without programming that knowledge in the first place and sort of allowing the machine (model, more precisely) to figure it out through a minimisation of loss and/or iterative approach to improve accuracy.
+
+A common misconception is that a large portion of machine learning or rather, it's application is hardcoded when that couldn't be further from the truth. Most of machine learning isn't hardcoded and it's about finding the best way for the machine (model) to learn with as little effort from the programmer. 
