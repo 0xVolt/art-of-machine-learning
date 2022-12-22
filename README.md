@@ -20,7 +20,7 @@ Funnily enough, I'm going to create notes of all the mathematics behind each of 
 | **Chapter**    	| **Description**                                                                                              	|
 |----------------	|--------------------------------------------------------------------------------------------------------------	|
 | [Introduction](Introduction/)   	| An introduction to machine learning, the way I am documenting my study of it and a plan on covering concepts. 	|
-| Regression     	|                                                                                                              	|
+| [Regression](Regression/)     	| Covering the basics of regression and introducing more complicated ways of using regression analysis.                                                                                         	|
 | Classification 	|                                                                                                              	|
 | Clustering     	|                                                                                                              	|
 | Deep Learning  	|                                                                                                              	|
